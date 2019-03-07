@@ -6,7 +6,7 @@
 html, body {
 	font-size: 1em;
 	line-height: 1.65em;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Muli", sans-serif;
 	font-weight: 300;
     background: #fff;
 	color: #444;
@@ -50,7 +50,7 @@ p, hr, h4, h5, h6 {
 }
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Arial", serif;
+	font-family: "Muli", serif;
 	font-weight: 400 !important;
 }
 h1 {
@@ -133,7 +133,7 @@ input {
 }
 /* Sidebar */
 header h1 {
-	font-size:1.9em;
+	font-size:1.4em;
 	margin-top:0.8em;
 	margin-bottom:0.6em;
 }
